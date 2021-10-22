@@ -1,6 +1,8 @@
 # Sorting-Algorithms
 
-  The project consists in the implementation of the following sorting algorithms in Python on different sets, intervals of numbers and types of data:
+  The project consists in the implementation of some sorting algorithms in Python on different sets, intervals of numbers and types of data. The purpose is finding the most efficient algorithm for different situations. The presentations includes the times of execution, observations for each data set type and conclusions.
+  
+  Sorting algorithms:
    - [x] Bubble sort
    - [x] Insertion Sort
    - [x] Count Sort
